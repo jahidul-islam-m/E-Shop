@@ -1,2 +1,3 @@
 # E-Shop
-This is E-commerce Project . Using Fake Store API .
+This is E-commerce Project . Using Fake Store API.
+
